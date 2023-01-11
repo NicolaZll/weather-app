@@ -1,4 +1,4 @@
-package nz.zuccante.2023.weatherapp1
+package com.weatherapp.android.nzzuccante
 
 import io.flutter.embedding.android.FlutterActivity
 

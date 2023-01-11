@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="nz.zuccante.2023.weatherapp1">
+    package="com.weatherapp.android.nzzuccante">
    <application
         android:label="Meteo"
         android:name="${applicationName}"
